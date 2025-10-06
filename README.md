@@ -1,4 +1,4 @@
-# Amber-shell-name_pending
+# Amber_shell(name pending)
 The quickshell config I made from scratch
 
 Right now this is mostly for backup porpuses this thing is barely useable.
